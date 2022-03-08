@@ -4,3 +4,5 @@ This is for testing public repos, I want to try some features out before enablin
 <a href="10 - T1.html">Page 2</a>
 
 <a href="20 - T2.html">Page 3</a>
+
+<a href="post.html">Post</a>
