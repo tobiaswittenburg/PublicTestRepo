@@ -6,3 +6,5 @@ This is for testing public repos, I want to try some features out before enablin
 <a href="20 - T2.html">Page 3</a>
 
 <a href="post.html">Post</a>
+
+<a href="post2.html">Post2</a>
